@@ -1,6 +1,6 @@
 **/target/
 .idea
-application-dev.yml
+**/application-dev.yml
 *.iml
 *.class
 *Test.java
